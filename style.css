@@ -1,0 +1,88 @@
+html{
+    background-color: rgba(240, 248, 255, 0.395);
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align:left;
+    font-size: x-large;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 3%;
+    font-weight: 600;
+    }
+table{ 
+    width: 100%;
+    border: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+.tabelaStatus{
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+tr,td,th{
+    border-top-style: groove; border-color: rgba(0, 0, 0, 0.282);
+    line-height: 4ch;
+    padding-top: 0.5%;
+    color: rgba(19, 18, 18, 0.699);  
+}
+.p,.v,.d,.gc,.perc{
+    background-color: rgba(151, 157, 157, 0.119);
+}
+td#p1,td#p2, td#p3 {
+    color: blue;
+}
+td#p4,td#p5{
+    color: #31c5c5;
+}
+td#p6{
+    color: #20af20;
+}
+td#p10{
+    color: red;
+}
+th{
+    color: rgba(132, 127, 127, 0.416);
+    font-size: smaller;  
+}
+th#classificacao{
+    text-align: left;
+}
+.ultJogos{
+    font-size: small;
+}
+td,th{
+    width: 50px;
+}
+.clas,.time{
+    text-align: left;
+}
+.posicao{
+    text-align: right;
+    font-size: small;
+}
+footer{
+    text-align: left;
+    padding-left: 10%;
+}
+small#championleague{
+    color: blue;
+}
+small#ligaeuropa{
+    color: #31c5c5;
+}
+small#conferencia{
+    color:#20af20;
+}
+small#rebaixado{
+    color: red;
+}
+small#legPosicao{
+    color: gray;
+}
+small#legUJ{
+    color: gray;
+    font-size: small;
+}
