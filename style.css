@@ -7,15 +7,15 @@ h1{
     text-align:left;
     font-size: x-large;
     text-align: left;
-    padding-left: 10%;
+    padding-left: 9%;
     padding-top: 3%;
     font-weight: 600;
     }
 table{ 
     width: 100%;
     border: 1%;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 9%;
+    padding-right: 9%;
     text-align: center;
 }
 .tabelaStatus{
@@ -65,7 +65,7 @@ td,th{
 }
 footer{
     text-align: left;
-    padding-left: 8%;
+    padding-left: 9%;
 }
 small#championleague{
     color: blue;
